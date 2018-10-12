@@ -1,4 +1,4 @@
-import requests, pprint
+import requests
 from bin import config
 from requests.auth import HTTPBasicAuth
 import argparse
